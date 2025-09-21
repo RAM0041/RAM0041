@@ -9,6 +9,7 @@
 
 ---
 
+
 ## 🚀 About Me
 
 * 🎓 Bachelor of Computer Applications (BCA)
@@ -18,6 +19,7 @@
 
 ---
 
+
 ## 🛠️ Tools & Technologies
 
 * **Languages & Queries:** SQL, Python
@@ -26,6 +28,7 @@
 * **Version Control:** Git & GitHub
 
 ---
+
 
 ## 📂 Featured Projects
 
@@ -39,6 +42,7 @@ Interactive dashboard analyzing sales performance, regional trends, and KPIs.
 Explored, cleaned, and visualized a dataset to derive actionable insights.
 
 ---
+
 
 ## 📫 Connect With Me
 
