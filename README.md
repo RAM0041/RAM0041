@@ -1,4 +1,3 @@
----
 
 # 👋 Hi, I’m Sriram R
 
@@ -7,7 +6,6 @@
 💡 Passionate about transforming raw data into meaningful insights and building dashboards that support business decisions.
 🌍 Open to opportunities across domains — **Immediate Joiner | Open to Relocate**
 
----
 
 ## 🚀 About Me
 
@@ -44,11 +42,10 @@ Explored, cleaned, and visualized a dataset to derive actionable insights.
 
 ## 📫 Connect With Me  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/sriram--r) | 📧 [sriramlinkedin6@gmail.com](mailto:sriramlinkedin6@gmail.com)  
- | 🖥️ [Portfolio](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/sriram--r) | 📧 [sriramlinkedin6@gmail.com](mailto:sriramlinkedin6@gmail.com)  | 🖥️ [Portfolio](#)
 
 ---
 
 ✨ *“Turning data into decisions, one dataset at a time.”*
 
----
+
