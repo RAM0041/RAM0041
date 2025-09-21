@@ -1,6 +1,3 @@
-Nice! A **GitHub README** is like your portfolio’s landing page — it should look professional but also engaging.
-Here’s a **decorated README template for a Data Analyst** (with some corporate polish and visuals):
-
 ---
 
 # 👋 Hi, I’m Sriram R
@@ -8,6 +5,7 @@ Here’s a **decorated README template for a Data Analyst** (with some corporate
 **📊 Data Analyst | SQL | Python | Excel | Power BI | Tableau**
 
 💡 Passionate about transforming raw data into meaningful insights and building dashboards that support business decisions.
+
 🌍 Open to opportunities across domains — **Immediate Joiner | Open to Relocate**
 
 ---
