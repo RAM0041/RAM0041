@@ -4,6 +4,7 @@
 **📊 Data Analyst | SQL | Python | Excel | Power BI | Tableau**
 
 💡 Passionate about transforming raw data into meaningful insights and building dashboards that support business decisions.
+
 🌍 Open to opportunities across domains — **Immediate Joiner | Open to Relocate**
 
 ---
