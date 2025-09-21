@@ -44,7 +44,6 @@ Explored, cleaned, and visualized a dataset to derive actionable insights.
 ---
 
 
-## 📫 Connect With Me
 
 ## 📫 Connect With Me  
 
